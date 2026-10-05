@@ -1,6 +1,6 @@
 cask "meetiline" do
-  version "0.3.5"
-  sha256 "e73bf7c58f10f4660c70df608ffae1a671783b84e9e03126afdb50ac31f7df71"
+  version "0.3.6"
+  sha256 "317deb837688687d3646a3d091257cd443b03412dc2940568700f57a737ac862"
 
   url "https://github.com/iskanginux/meetiline-site/releases/download/v#{version}/Meetiline.dmg"
   name "Meetiline"
